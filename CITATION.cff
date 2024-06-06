@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Task set to compare SD-LPWAN and LoRaWAN energy
+  consumption and number of correct messages exchange
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Mohammad Ali
+    family-names: Farmahini Farahani
+    email: farmahini.ali@ut.ac.ir
+    affiliation: 'PhD student '
+repository-code: >-
+  https://github.com/farmahiniali/SD-LPWAN-LoRaWAN-SampleTasks
+abstract: >-
+  This set of tasks has been created using method Uunifast
+  to ensure that the hyper-period size does not become too
+  large.
+keywords:
+  - task set
+  - 'scheduling '
